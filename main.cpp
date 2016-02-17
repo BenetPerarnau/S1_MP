@@ -283,9 +283,9 @@ i<=N en el següent format (suposem N = 3):
 /*
 Exercici 8
 Escriure un programa que, donat un número N més gran que 2, ens mostri per 
- * pantalla els N primers números de la sèrie de Fibonacci. 
- * Recordeu que la sèrie de Fibonacci es defineix de la següent forma:
-a(1)=1
+pantalla els N primers números de la sèrie de Fibonacci. 
+Recordeu que la sèrie de Fibonacci es defineix de la següent forma:
+a(1)=1 
 a(2)=1
 a(n)=a(n-2)+a(n-1)
 El format de sortida ha de ser el següent (suposem N=7):
